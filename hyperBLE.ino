@@ -1,4 +1,10 @@
 
+
+//Data expected:
+// #1 ... tuns ON
+// #2 ... turns oFF
+// #f:340 ... FREQ to 340 
+
 bool lightsON = false;
 int freq = 220;
 
